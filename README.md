@@ -26,7 +26,7 @@
 
 ---
 
-# JavaScript Bootcamp Content
+## JavaScript Bootcamp Content
 
 ### Introduction
 
