@@ -2,25 +2,25 @@
 
 # JavaScript Bootcamp Course From [Elzero Web School](https://elzero.org/)
 
-[Course Study Plan](https://elzero.org/study/javascript-bootcamp-2021-study-plan/) => [ 01 From 03 ] - Weeks
+[Course Study Plan](https://elzero.org/study/javascript-bootcamp-2021-study-plan/) => [ 01 From 10 ] - Weeks
 
-![30%](https://progress-bar.dev/30/?title='Done')
-
----
-
-[Videos Watched](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) => [ 01 From 22 ] - Videos
-
-![40%](https://progress-bar.dev/40/?title='Watched')
+![33%](https://progress-bar.dev/33/?title='Done')
 
 ---
 
-[Assignments Solved](https://elzero.org/category/assignments/javascript-bootcamp-assignments/) => [ 01 From 03 ] - Assignments
+[Videos Watched](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) => [ 001 From 078 ] - Videos
 
-![0%](https://progress-bar.dev/0/?title='Solved')
+![28%](https://progress-bar.dev/28/?title='Watched')
 
 ---
 
-[Problems Solved](https://elzero.org/category/challenges/javascript-challenges/) => [ 01 From 02 ] - Problems
+[Assignments Solved](https://elzero.org/category/assignments/javascript-bootcamp-assignments/) => [ 01 From 10 ] - Assignments
+
+![33%](https://progress-bar.dev/33/?title='Solved')
+
+---
+
+[Problems Solved](https://elzero.org/category/challenges/javascript-challenges/) => [ 01 From 5 ] - Problems
 
 ![0%](https://progress-bar.dev/0/?title='Solved')
 
