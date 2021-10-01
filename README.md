@@ -30,31 +30,31 @@
 
 ### Introduction
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched`- 001 - Introduction And What Is JavaScript ?
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched`- 002 - How To Study The Course ?
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched`- 003 - Setting Up Environment And Tools
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched`- 004 - Work With Chrome Developer Tools
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched`- 005 - Where To Put The Code ?
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched`- 006 - Comments And Bad Practices
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched`- 007 - Output To Screen
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched`- 008 - Console Methods And Styling And WebAPI
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched`- 009 - What Is ECMAScript ?
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 001 - Introduction And What Is JavaScript ?
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 002 - How To Study The Course ?
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 003 - Setting Up Environment And Tools
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 004 - Work With Chrome Developer Tools
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 005 - Where To Put The Code ?
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 006 - Comments And Bad Practices
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 007 - Output To Screen
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 008 - Console Methods And Styling And WebAPI
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 009 - What Is ECMAScript ?
 
 ### Data Types And Variables
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 010 - Data Types And Typeof Operator
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 011 - Variable Introduction
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 012 - Identifiers Name Convention And Rules
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 013 - Var, Let, Const Compare
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 014 - String Syntax + Character Escape Sequences
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 015 - Concatenations
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 016 - Template Literals (Template Strings)
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 017 - Variable And Concatenation Challenge
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 018 - Arithmetic Operators
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 019 - Unary Operators
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 020 - Type Coercion
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 021 - Assignment Operators
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 022 - Operators Challenge
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 010 - Data Types And Typeof Operator
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 011 - Variable Introduction
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 012 - Identifiers Name Convention And Rules
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 013 - Var, Let, Const Compare
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 014 - String Syntax + Character Escape Sequences
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 015 - Concatenations
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 016 - Template Literals (Template Strings)
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 017 - Variable And Concatenation Challenge
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 018 - Arithmetic Operators
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 019 - Unary Operators
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 020 - Type Coercion
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 021 - Assignment Operators
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 022 - Operators Challenge
 
 ## Numbers And Strings
 
@@ -245,11 +245,11 @@
 
 ## Assignments
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - Introduction => [Assignments For Lessons From [ 001 ] To [ 009 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-001-to-009/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Introduction => [Assignments For Lessons From [ 001 ] To [ 009 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-001-to-009/) => [Solution] `Unsolved yet`
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - Data Types And Variables => [Assignments For Lessons From [ 010 ] To [ 017 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-010-to-017/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Data Types And Variables => [Assignments For Lessons From [ 010 ] To [ 017 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-010-to-017/) => [Solution] `Unsolved yet`
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - Operators => [Assignments For Lessons From [ 018 ] To [ 022 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-018-to-022/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Operators => [Assignments For Lessons From [ 018 ] To [ 022 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-018-to-022/) => [Solution] `Unsolved yet`
 
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - Numbers => [Assignments For Lessons From [ 023 ] To [ 026 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-023-to-026/) => [Solution] `Unsolved yet`
 
