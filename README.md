@@ -4,19 +4,19 @@
 
 [Course Study Plan](https://elzero.org/study/javascript-bootcamp-2021-study-plan/) => [ 01 From 10 ] - Weeks
 
-![33%](https://progress-bar.dev/33/?title='Done')
+![40%](https://progress-bar.dev/40/?title='Done')
 
 ---
 
 [Videos Watched](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) => [ 001 From 078 ] - Videos
 
-![28%](https://progress-bar.dev/28/?title='Watched')
+![41%](https://progress-bar.dev/41/?title='Watched')
 
 ---
 
 [Assignments Solved](https://elzero.org/category/assignments/javascript-bootcamp-assignments/) => [ 01 From 10 ] - Assignments
 
-![33%](https://progress-bar.dev/33/?title='Solved')
+![60%](https://progress-bar.dev/60/?title='Solved')
 
 ---
 
@@ -58,19 +58,19 @@
 
 ## Numbers And Strings
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 023 - Number
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 024 - Number Methods
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 025 - Math Object
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 026 - Number Challenge
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 027 - String Methods Part 1
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 028 - String Methods Part 2
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 029 - String Methods Part 3
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 030 - Strings Challenge
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 023 - Number
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 024 - Number Methods
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 025 - Math Object
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 026 - Number Challenge
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 027 - String Methods Part 1
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 028 - String Methods Part 2
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 029 - String Methods Part 3
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 030 - Strings Challenge
 
 ### Control Flow
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 031 - Comparison Operators
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 032 - Logical Operators
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 031 - Comparison Operators
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 032 - Logical Operators
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 033 - If Conditions
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 034 - Nested If
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 035 - Conditional (Ternary) Operator
@@ -251,11 +251,11 @@
 
 - [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Operators => [Assignments For Lessons From [ 018 ] To [ 022 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-018-to-022/) => [Solution] `Unsolved yet`
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - Numbers => [Assignments For Lessons From [ 023 ] To [ 026 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-023-to-026/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Numbers => [Assignments For Lessons From [ 023 ] To [ 026 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-023-to-026/) => [Solution] `Unsolved yet`
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - String & Methods => [Assignments For Lessons From [ 027 ] To [ 030 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-027-to-030/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - String & Methods => [Assignments For Lessons From [ 027 ] To [ 030 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-027-to-030/) => [Solution] `Unsolved yet`
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - Comparison & Logical Operators => [Assignments For Lessons From [ 031 ] To [ 032 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-031-to-032/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Comparison & Logical Operators => [Assignments For Lessons From [ 031 ] To [ 032 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-031-to-032/) => [Solution] `Unsolved yet`
 
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - If Condition => [Assignments For Lessons From [ 033 ] To [ 037 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-033-to-037/) => [Solution] `Unsolved yet`(
 
