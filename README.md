@@ -4,25 +4,25 @@
 
 [Course Study Plan](https://elzero.org/study/javascript-bootcamp-2021-study-plan/) => [ 01 From 10 ] - Weeks
 
-![40%](https://progress-bar.dev/40/?title='Done')
+![50%](https://progress-bar.dev/50/?title='Done')
 
 ---
 
 [Videos Watched](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) => [ 001 From 078 ] - Videos
 
-![41%](https://progress-bar.dev/41/?title='Watched')
+![50%](https://progress-bar.dev/50/?title='Watched')
 
 ---
 
 [Assignments Solved](https://elzero.org/category/assignments/javascript-bootcamp-assignments/) => [ 01 From 10 ] - Assignments
 
-![60%](https://progress-bar.dev/60/?title='Solved')
+![80%](https://progress-bar.dev/80/?title='Solved')
 
 ---
 
-[Problems Solved](https://elzero.org/category/challenges/javascript-challenges/) => [ 01 From 5 ] - Problems
+[Problems Solved](https://elzero.org/category/challenges/javascript-challenges/) => [ 06 From 06 ] - Problems
 
-![0%](https://progress-bar.dev/0/?title='Solved')
+![100%](https://progress-bar.dev/100/?title='Solved')
 
 ---
 
@@ -71,13 +71,13 @@
 
 - [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 031 - Comparison Operators
 - [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 032 - Logical Operators
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 033 - If Conditions
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 034 - Nested If
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 035 - Conditional (Ternary) Operator
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 036 - Nullish Coalescing Operator And Logical Or
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 037 - If Challenge
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 038 - Switch Statement
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 039 - Switch And If Challenges
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 033 - If Conditions
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 034 - Nested If
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 035 - Conditional (Ternary) Operator
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 036 - Nullish Coalescing Operator And Logical Or
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 037 - If Challenge
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 038 - Switch Statement
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 039 - Switch And If Challenges
 
 ### Arrays
 
@@ -257,9 +257,9 @@
 
 - [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Comparison & Logical Operators => [Assignments For Lessons From [ 031 ] To [ 032 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-031-to-032/) => [Solution] `Unsolved yet`
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - If Condition => [Assignments For Lessons From [ 033 ] To [ 037 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-033-to-037/) => [Solution] `Unsolved yet`(
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - If Condition => [Assignments For Lessons From [ 033 ] To [ 037 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-033-to-037/) => [Solution] `Unsolved yet`(
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - Switch Statement => [Assignments For Lessons From [ 038 ] To [ 039 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-038-to-039/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Switch Statement => [Assignments For Lessons From [ 038 ] To [ 039 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-038-to-039/) => [Solution] `Unsolved yet`
 
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - Array & Methods =>[Assignments For Lessons From [ 040 ] To [ 047 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-040-to-047/) => [Solution] `Unsolved yet`
 
@@ -285,19 +285,19 @@
 
 ## Problems
 
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [Plus And Minus Puzzle](https://elzero.org/javascript-plus-and-minus-puzzle/) => [Solution] `Unsolved yet`
+
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [Play With Variables](https://elzero.org/javascript-play-with-variable-values/) => [Solution] `Unsolved yet`
+
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [Numbers From Variables](https://elzero.org/javascript-numbers-from-variables/) => [Solution] `Unsolved yet`
+
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [String Manipulation](https://elzero.org/javascript-string-manipulation/) => [Solution] `Unsolved yet`
+
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [Condition Met](https://elzero.org/javascript-condition-met-challenge/) => [Solution] `Unsolved yet`
+
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [If And Switch Toggle](https://elzero.org/javascript-if-and-switch-toggle/) => [Solution] `Unsolved yet`
+
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - [Array Methods](https://elzero.org/javascript-array-methods-challenge/) => [Solution] `Unsolved yet`
-
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - [Condition Met](https://elzero.org/javascript-condition-met-challenge/) => [Solution] `Unsolved yet`
-
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - [If And Switch Toggle](https://elzero.org/javascript-if-and-switch-toggle/) => [Solution] `Unsolved yet`
-
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - [Numbers From Variables](https://elzero.org/javascript-numbers-from-variables/) => [Solution] `Unsolved yet`
-
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - [String Manipulation](https://elzero.org/javascript-string-manipulation/) => [Solution] `Unsolved yet`
-
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - [Play With Variables](https://elzero.org/javascript-play-with-variable-values/) => [Solution] `Unsolved yet`
-
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - [Plus And Minus Puzzle](https://elzero.org/javascript-plus-and-minus-puzzle/) => [Solution] `Unsolved yet`
 
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - [Previous and Next Number](https://elzero.org/javascript-previous-and-next-number-in-array/) => [Solution] `Unsolved yet`
 
