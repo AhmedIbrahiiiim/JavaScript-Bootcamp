@@ -245,21 +245,21 @@
 
 ## Assignments
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Introduction => [Assignments For Lessons From [ 001 ] To [ 009 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-001-to-009/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Introduction => [Assignments For Lessons From [ 001 ] To [ 009 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-001-to-009/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-01%20-%20%5B001%5D%20To%20%5B009%5D)
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Data Types And Variables => [Assignments For Lessons From [ 010 ] To [ 017 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-010-to-017/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Data Types And Variables => [Assignments For Lessons From [ 010 ] To [ 017 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-010-to-017/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-02%20-%20%5B010%5D%20To%20%5B017%5D)
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Operators => [Assignments For Lessons From [ 018 ] To [ 022 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-018-to-022/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Operators => [Assignments For Lessons From [ 018 ] To [ 022 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-018-to-022/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-03%20-%20%5B018%5D%20To%20%5B022%5D)
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Numbers => [Assignments For Lessons From [ 023 ] To [ 026 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-023-to-026/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Numbers => [Assignments For Lessons From [ 023 ] To [ 026 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-023-to-026/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-04%20-%20%5B023%5D%20To%20%5B026%5D)
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - String & Methods => [Assignments For Lessons From [ 027 ] To [ 030 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-027-to-030/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - String & Methods => [Assignments For Lessons From [ 027 ] To [ 030 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-027-to-030/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-05%20-%20%5B027%5D%20To%20%5B030%5D)
 
 - [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Comparison & Logical Operators => [Assignments For Lessons From [ 031 ] To [ 032 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-031-to-032/) => [Solution] `Unsolved yet`
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - If Condition => [Assignments For Lessons From [ 033 ] To [ 037 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-033-to-037/) => [Solution] `Unsolved yet`(
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - If Condition => [Assignments For Lessons From [ 033 ] To [ 037 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-033-to-037/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-06%20-%20%5B031%5D%20To%20%5B032%5D)
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Switch Statement => [Assignments For Lessons From [ 038 ] To [ 039 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-038-to-039/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Switch Statement => [Assignments For Lessons From [ 038 ] To [ 039 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-038-to-039/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-08%20-%20%5B038%5D%20To%20%5B039%5D)
 
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - Array & Methods =>[Assignments For Lessons From [ 040 ] To [ 047 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-040-to-047/) => [Solution] `Unsolved yet`
 
@@ -285,17 +285,17 @@
 
 ## Problems
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [Plus And Minus Puzzle](https://elzero.org/javascript-plus-and-minus-puzzle/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [Plus And Minus Puzzle](https://elzero.org/javascript-plus-and-minus-puzzle/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-03%20-%20%5B018%5D%20To%20%5B022%5D/Operators%20Challenges)
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [Play With Variables](https://elzero.org/javascript-play-with-variable-values/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [Play With Variables](https://elzero.org/javascript-play-with-variable-values/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-03%20-%20%5B018%5D%20To%20%5B022%5D/Operators%20Challenges)
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [Numbers From Variables](https://elzero.org/javascript-numbers-from-variables/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [Numbers From Variables](https://elzero.org/javascript-numbers-from-variables/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-04%20-%20%5B023%5D%20To%20%5B026%5D/Numbers%20From%20Variables)
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [String Manipulation](https://elzero.org/javascript-string-manipulation/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [String Manipulation](https://elzero.org/javascript-string-manipulation/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-05%20-%20%5B027%5D%20To%20%5B030%5D/String%20Manipulation)
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [Condition Met](https://elzero.org/javascript-condition-met-challenge/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [Condition Met](https://elzero.org/javascript-condition-met-challenge/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-07%20-%20%5B033%5D%20To%20%5B037%5D/Condition%20Met%20Challenge)
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [If And Switch Toggle](https://elzero.org/javascript-if-and-switch-toggle/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [If And Switch Toggle](https://elzero.org/javascript-if-and-switch-toggle/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-08%20-%20%5B038%5D%20To%20%5B039%5D/If%20And%20Switch%20Toggle)
 
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - [Array Methods](https://elzero.org/javascript-array-methods-challenge/) => [Solution] `Unsolved yet`
 
