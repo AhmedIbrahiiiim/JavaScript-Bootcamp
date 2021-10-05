@@ -261,7 +261,7 @@
 
 - [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Switch Statement => [Assignments For Lessons From [ 038 ] To [ 039 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-038-to-039/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-08%20-%20%5B038%5D%20To%20%5B039%5D)
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Array & Methods => [Assignments For Lessons From [ 040 ] To [ 047 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-040-to-047/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Array & Methods => [Assignments For Lessons From [ 040 ] To [ 047 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-040-to-047/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-09%20-%20%5B040%5D%20To%20%5B047%5D)
 
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - For Loop => [Assignments For Lessons From [ 048 ] To [ 053 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-048-to-053/) => [Solution] `Unsolved yet`
 
