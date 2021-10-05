@@ -14,9 +14,9 @@
 
 ---
 
-[Assignments Solved](https://elzero.org/category/assignments/javascript-bootcamp-assignments/) => [ 01 From 10 ] - Assignments
+[Assignments Solved](https://elzero.org/category/assignments/javascript-bootcamp-assignments/) => [ 01 From 14 ] - Assignments
 
-![80%](https://progress-bar.dev/80/?title='Solved')
+![64%](https://progress-bar.dev/64/?title='Solved')
 
 ---
 
@@ -81,14 +81,14 @@
 
 ### Arrays
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 040 - Array Big Intro
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 041 - Using Length With Array
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 042 - Adding And Removing From Arrays
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 043 - Searching Arrays
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 044 - Sorting Arrays
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 045 - Slicing Arrays
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 046 - Joining Arrays And Elements
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 047 - Arrays Challenges
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 040 - Array Big Intro
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 041 - Using Length With Array
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 042 - Adding And Removing From Arrays
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 043 - Searching Arrays
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 044 - Sorting Arrays
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 045 - Slicing Arrays
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 046 - Joining Arrays And Elements
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 047 - Arrays Challenges
 
 ### Loop
 
@@ -261,7 +261,7 @@
 
 - [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Switch Statement => [Assignments For Lessons From [ 038 ] To [ 039 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-038-to-039/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-08%20-%20%5B038%5D%20To%20%5B039%5D)
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - Array & Methods =>[Assignments For Lessons From [ 040 ] To [ 047 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-040-to-047/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Array & Methods => [Assignments For Lessons From [ 040 ] To [ 047 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-040-to-047/) => [Solution] `Unsolved yet`
 
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - For Loop => [Assignments For Lessons From [ 048 ] To [ 053 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-048-to-053/) => [Solution] `Unsolved yet`
 
@@ -297,7 +297,7 @@
 
 - [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [If And Switch Toggle](https://elzero.org/javascript-if-and-switch-toggle/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-08%20-%20%5B038%5D%20To%20%5B039%5D/If%20And%20Switch%20Toggle)
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - [Array Methods](https://elzero.org/javascript-array-methods-challenge/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [Array Methods](https://elzero.org/javascript-array-methods-challenge/) => [Solution] `Unsolved yet`
 
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - [Previous and Next Number](https://elzero.org/javascript-previous-and-next-number-in-array/) => [Solution] `Unsolved yet`
 
