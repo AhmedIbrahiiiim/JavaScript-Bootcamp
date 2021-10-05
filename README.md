@@ -4,13 +4,13 @@
 
 [Course Study Plan](https://elzero.org/study/javascript-bootcamp-2021-study-plan/) => [ 01 From 10 ] - Weeks
 
-![50%](https://progress-bar.dev/50/?title='Done')
+![60%](https://progress-bar.dev/60/?title='Done')
 
 ---
 
 [Videos Watched](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) => [ 001 From 078 ] - Videos
 
-![50%](https://progress-bar.dev/50/?title='Watched')
+![60%](https://progress-bar.dev/60/?title='Watched')
 
 ---
 
