@@ -297,7 +297,7 @@
 
 - [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [If And Switch Toggle](https://elzero.org/javascript-if-and-switch-toggle/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-08%20-%20%5B038%5D%20To%20%5B039%5D/If%20And%20Switch%20Toggle)
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [Array Methods](https://elzero.org/javascript-array-methods-challenge/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [Array Methods](https://elzero.org/javascript-array-methods-challenge/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-09%20-%20%5B040%5D%20To%20%5B047%5D/Array%20Methods%20Challenge)
 
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - [Previous and Next Number](https://elzero.org/javascript-previous-and-next-number-in-array/) => [Solution] `Unsolved yet`
 

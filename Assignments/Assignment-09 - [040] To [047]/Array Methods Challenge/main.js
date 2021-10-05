@@ -32,11 +32,3 @@ console.log(
       .toUpperCase()
 ); // "rO"
 // console.log(my[2].slice(4, 5) + my[2].slice(5, 6).toUpperCase()); // "rO"
-
-
-
-
-
-
-
-
