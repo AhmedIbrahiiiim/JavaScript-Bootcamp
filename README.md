@@ -4,19 +4,19 @@
 
 [Course Study Plan](https://elzero.org/study/javascript-bootcamp-2021-study-plan/) => [ 01 From 10 ] - Weeks
 
-![60%](https://progress-bar.dev/60/?title='Done')
+![70%](https://progress-bar.dev/70/?title='Done')
 
 ---
 
 [Videos Watched](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) => [ 001 From 078 ] - Videos
 
-![60%](https://progress-bar.dev/60/?title='Watched')
+![71%](https://progress-bar.dev/71/?title='Watched')
 
 ---
 
 [Assignments Solved](https://elzero.org/category/assignments/javascript-bootcamp-assignments/) => [ 01 From 14 ] - Assignments
 
-![64%](https://progress-bar.dev/64/?title='Solved')
+![78%](https://progress-bar.dev/78/?title='Solved')
 
 ---
 
@@ -263,9 +263,9 @@
 
 - [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Array & Methods => [Assignments For Lessons From [ 040 ] To [ 047 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-040-to-047/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-09%20-%20%5B040%5D%20To%20%5B047%5D)
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - For Loop => [Assignments For Lessons From [ 048 ] To [ 053 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-048-to-053/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - For Loop => [Assignments For Lessons From [ 048 ] To [ 053 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-048-to-053/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-10%20-%20%5B048%5D%20To%20%5B053%5D)
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - While Loop => [Assignments For Lessons From [ 054 ] To [ 056 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-054-to-056/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - While Loop => [Assignments For Lessons From [ 054 ] To [ 056 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-054-to-056/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-11%20-%20%5B054%5D%20To%20%5B056%5D)
 
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - Function & Parameters => [Assignments For Lessons From [ 057 ] To [ 063 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-057-to-063/) => [Solution] `Unsolved yet`
 
