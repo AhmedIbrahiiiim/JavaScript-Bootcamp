@@ -269,7 +269,7 @@
 
 - [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Function & Parameters => [Assignments For Lessons From [ 057 ] To [ 063 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-057-to-063/) => [Solution]()
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Function & Scopes => [Assignments For Lessons From [ 064 ] To [ 070 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-064-to-070/) => [Solution]()
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Function & Scopes => [Assignments For Lessons From [ 064 ] To [ 070 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-064-to-070/) => [Solution]
 
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - High Order Functions => [Assignments For Lessons From [ 071 ] To [ 078 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-071-to-078/) => [Solution] `Unsolved yet`
 
