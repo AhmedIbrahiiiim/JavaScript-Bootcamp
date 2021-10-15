@@ -4,25 +4,25 @@
 
 [Course Study Plan](https://elzero.org/study/javascript-bootcamp-2021-study-plan/) => [ 01 From 10 ] - Weeks
 
-![70%](https://progress-bar.dev/70/?title='Done')
+![90%](https://progress-bar.dev/90/?title='Done')
 
 ---
 
 [Videos Watched](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) => [ 001 From 078 ] - Videos
 
-![71%](https://progress-bar.dev/71/?title='Watched')
+![89%](https://progress-bar.dev/89/?title='Watched')
 
 ---
 
-[Assignments Solved](https://elzero.org/category/assignments/javascript-bootcamp-assignments/) => [ 01 From 14 ] - Assignments
+[Assignments Solved](https://elzero.org/category/assignments/javascript-bootcamp-assignments/) => [ 01 From 20 ] - Assignments
 
-![78%](https://progress-bar.dev/78/?title='Solved')
+![65%](https://progress-bar.dev/65/?title='Solved')
 
 ---
 
-[Problems Solved](https://elzero.org/category/challenges/javascript-challenges/) => [ 06 From 06 ] - Problems
+[Problems Solved](https://elzero.org/category/challenges/javascript-challenges/) => [ 01 From 18 ] - Problems
 
-![100%](https://progress-bar.dev/100/?title='Solved')
+![44%](https://progress-bar.dev/44/?title='Solved')
 
 ---
 
@@ -267,9 +267,9 @@
 
 - [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - While Loop => [Assignments For Lessons From [ 054 ] To [ 056 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-054-to-056/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-11%20-%20%5B054%5D%20To%20%5B056%5D)
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Function & Parameters => [Assignments For Lessons From [ 057 ] To [ 063 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-057-to-063/) => [Solution]()
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Function & Parameters => [Assignments For Lessons From [ 057 ] To [ 063 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-057-to-063/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-12%20-%20%5B057%5D%20To%20%5B063%5D)
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Function & Scopes => [Assignments For Lessons From [ 064 ] To [ 070 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-064-to-070/) => [Solution]
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Function & Scopes => [Assignments For Lessons From [ 064 ] To [ 070 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-064-to-070/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-13%20-%20%5B064%5D%20To%20%5B070%5D)
 
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - High Order Functions => [Assignments For Lessons From [ 071 ] To [ 078 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-071-to-078/) => [Solution] `Unsolved yet`
 
@@ -299,9 +299,9 @@
 
 - [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [Array Methods](https://elzero.org/javascript-array-methods-challenge/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-09%20-%20%5B040%5D%20To%20%5B047%5D/Array%20Methods%20Challenge)
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - [Previous and Next Number](https://elzero.org/javascript-previous-and-next-number-in-array/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - [Shuffled Arguments Message](https://elzero.org/javascript-shuffled-arguments-message/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-12%20-%20%5B057%5D%20To%20%5B063%5D/Shuffled%20Arguments%20Message)
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - [Shuffled Arguments Message](https://elzero.org/javascript-shuffled-arguments-message/) => [Solution] `Unsolved yet`(
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - [Previous and Next Number](https://elzero.org/javascript-previous-and-next-number-in-array/) => [Solution] `Unsolved yet`
 
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - [Unique Numbers In List](https://elzero.org/javascript-unique-numbers-in-array/) => [Solution] `Unsolved yet`
 
