@@ -271,11 +271,11 @@
 
 - [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Function & Scopes => [Assignments For Lessons From [ 064 ] To [ 070 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-064-to-070/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-13%20-%20%5B064%5D%20To%20%5B070%5D)
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - High Order Functions => [Assignments For Lessons From [ 071 ] To [ 078 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-071-to-078/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - High Order Functions => [Assignments For Lessons From [ 071 ] To [ 078 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-071-to-078/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-14%20-%20%5B071%5D%20To%20%5B078%5D)
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Objects & Methods => [Assignments For Lessons From [ 079 ] To [ 085 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-079-to-085/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Objects & Methods => [Assignments For Lessons From [ 079 ] To [ 085 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-079-to-085/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-15%20-%20%5B079%5D%20To%20%5B085%5D)
 
-- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Document Object Model => [Assignments For Lessons From [ 086 ] To [ 093 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-086-to-093/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Document Object Model => [Assignments For Lessons From [ 086 ] To [ 093 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-086-to-093/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-16%20-%20%5B086%5D%20To%20%5B093%5D)
 
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - Document Object Model => [Assignments For Lessons From [ 094 ] To [ 101 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-094-to-100/) => [Solution] `Unsolved yet`
 
