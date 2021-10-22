@@ -2,21 +2,21 @@
 
 # JavaScript Bootcamp Course From [Elzero Web School](https://elzero.org/)
 
-[Course Study Plan](https://elzero.org/study/javascript-bootcamp-2021-study-plan/) => [ 01 From 10 ] - Weeks
+[Course Study Plan](https://elzero.org/study/javascript-bootcamp-2021-study-plan/) => [ 01 From 15 ] - Weeks
 
-![90%](https://progress-bar.dev/90/?title='Done')
+![86%](https://progress-bar.dev/86/?title='Done')
 
 ---
 
-[Videos Watched](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) => [ 001 From 078 ] - Videos
+[Videos Watched](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) => [ 001 From 114 ] - Videos
 
-![89%](https://progress-bar.dev/89/?title='Watched')
+![88%](https://progress-bar.dev/88/?title='Watched')
 
 ---
 
 [Assignments Solved](https://elzero.org/category/assignments/javascript-bootcamp-assignments/) => [ 01 From 20 ] - Assignments
 
-![65%](https://progress-bar.dev/65/?title='Solved')
+![80%](https://progress-bar.dev/80/?title='Solved')
 
 ---
 
