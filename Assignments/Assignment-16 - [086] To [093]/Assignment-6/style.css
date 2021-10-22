@@ -1,0 +1,97 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+h2 {
+  font-weight: normal;
+}
+form {
+  display: grid;
+  place-items: center;
+  margin-top: 30px;
+}
+form input {
+  margin-bottom: 10px;
+}
+form select {
+  margin-bottom: 10px;
+}
+form input {
+  margin-bottom: 10px;
+}
+form input[type="number"],
+form input[type="text"],
+select {
+  border: none;
+  width: 350px;
+  height: 50px;
+  background: #eee;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-weight: bold;
+  padding-left: 20px;
+}
+form input[type="number"]::placeholder,
+form input[type="text"]::placeholder,
+select {
+  font-size: 1rem;
+  font-weight: bold;
+  /* padding-left: 20px; */
+}
+select {
+  cursor: pointer;
+}
+form input[type="submit"] {
+  font-size: 1rem;
+  font-weight: bold;
+  border: none;
+  width: 350px;
+  height: 50px;
+  border-radius: 5px;
+  background: limegreen;
+  cursor: pointer;
+  margin-bottom: 50px;
+}
+form div {
+  width: calc(100vw - 30px);
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+form div div {
+  background-color: orangered;
+  border-radius: 5px;
+  width: calc(100% / 3);
+  height: 50px;
+  flex: 0 1 32%; /*grow | shrink | basis */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+form div {
+  width: calc(100vw - 30px);
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+form div section {
+  background-color: orangered;
+  border-radius: 5px;
+  width: calc(100% / 3);
+  height: 50px;
+  flex: 0 0 33%; /*grow | shrink | basis */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}

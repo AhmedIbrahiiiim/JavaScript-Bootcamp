@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  display: grid;
+  place-items: center;
+}
+h2 {
+  font-weight: normal;
+}
+img {
+  display: block;
+  margin-bottom: 50px;
+}

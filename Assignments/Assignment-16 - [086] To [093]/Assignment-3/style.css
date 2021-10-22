@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100vh;
+}
+h2 {
+  font-weight: normal;
+}
+form {
+  margin: 0;
+  display: grid;
+  place-items: center;
+  margin-top: 20px;
+}
+form input {
+  margin-bottom: 10px;
+}

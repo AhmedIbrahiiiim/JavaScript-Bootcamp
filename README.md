@@ -121,43 +121,43 @@
 
 ### Higher Order Functions And Practice
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 071 - Array Map
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 072 - Array Map Practice
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 073 - Array Filter
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 074 - Array Filter Practice
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 075 - Array Reduce
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 076 - Array Reduce Practice
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 077 - Array ForEach And Practice
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 078 - Higher Order Functions Challenge
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 071 - Array Map
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 072 - Array Map Practice
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 073 - Array Filter
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 074 - Array Filter Practice
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 075 - Array Reduce
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 076 - Array Reduce Practice
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 077 - Array ForEach And Practice
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 078 - Higher Order Functions Challenge
 
 ### Objects
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 079 - Object Intro
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 080 - Accessing Object With Dot vs Bracket Notation
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 081 - Nested Object and Advanced Examples
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 082 - Create Object With New Keyword
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 083 - This Keyword
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 084 - Create Object With Create Method
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 085 - Create Object With Assign Method
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 079 - Object Intro
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 080 - Accessing Object With Dot vs Bracket Notation
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 081 - Nested Object and Advanced Examples
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 082 - Create Object With New Keyword
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 083 - This Keyword
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 084 - Create Object With Create Method
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 085 - Create Object With Assign Method
 
 ### Document Object Model [DOM]
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 086 - What Is DOM ? And Select Elements
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 087 - Get / Set Elements Content And Attributes
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 088 - Check Attributes And Examples
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 089 - Create And Append Elements
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 090 - Product With Heading And Paragraph
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 091 - Deal With Childrens
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 092 - Dom Events
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 093 - Validate Form And Prevent Default
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 094 - Events Simulation - Click, Focus, Blur
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 095 - ClassList Object And Methods
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 096 - CSS Styling And Stylesheets
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 097 - Before, After, Prepend, Append, Remove
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 098 - DOM Traversing
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 099 - DOM Cloning
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 100 - Add Event Listener And Event Target
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `UnWatched` - 101 - DOM Challenge
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 086 - What Is DOM ? And Select Elements
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 087 - Get / Set Elements Content And Attributes
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 088 - Check Attributes And Examples
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 089 - Create And Append Elements
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 090 - Product With Heading And Paragraph
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 091 - Deal With Childrens
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 092 - Dom Events
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 093 - Validate Form And Prevent Default
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 094 - Events Simulation - Click, Focus, Blur
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 095 - ClassList Object And Methods
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 096 - CSS Styling And Stylesheets
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 097 - Before, After, Prepend, Append, Remove
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 098 - DOM Traversing
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 099 - DOM Cloning
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 100 - Add Event Listener And Event Target
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Watched` - 101 - DOM Challenge
 
 ### Browser Object Model [BOM]
 
@@ -271,11 +271,11 @@
 
 - [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Function & Scopes => [Assignments For Lessons From [ 064 ] To [ 070 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-064-to-070/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-13%20-%20%5B064%5D%20To%20%5B070%5D)
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - High Order Functions => [Assignments For Lessons From [ 071 ] To [ 078 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-071-to-078/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - High Order Functions => [Assignments For Lessons From [ 071 ] To [ 078 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-071-to-078/) => [Solution] `Unsolved yet`
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - Objects & Methods => [Assignments For Lessons From [ 079 ] To [ 085 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-079-to-085/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Objects & Methods => [Assignments For Lessons From [ 079 ] To [ 085 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-079-to-085/) => [Solution] `Unsolved yet`
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - Document Object Model => [Assignments For Lessons From [ 086 ] To [ 093 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-086-to-093/) => [Solution] `Unsolved yet`
+- [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Document Object Model => [Assignments For Lessons From [ 086 ] To [ 093 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-086-to-093/) => [Solution] `Unsolved yet`
 
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - Document Object Model => [Assignments For Lessons From [ 094 ] To [ 101 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-094-to-100/) => [Solution] `Unsolved yet`
 

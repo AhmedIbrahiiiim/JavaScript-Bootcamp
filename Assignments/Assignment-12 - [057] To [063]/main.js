@@ -87,9 +87,14 @@ function multiply(...xNumbers) {
   for (let i = 0; i < xNumbers.length; i++) {
     if (typeof xNumbers[i] !== "number") continue;
     xNumbers[i] = parseInt(xNumbers[i]);
-    console.log(xNumbers[i] * xNumbers[i + 1]);
+    if (
+      typeof xNumbers[i + 1] === "undefined" ||
+      typeof xNumbers[i + 1] === "string"
+    )
+      continue;
+    else console.log(xNumbers[i] * xNumbers[i + 1]);
   }
 }
-multiply(10, 20); // 200 || NaN
-multiply("A", 10, 30); // 300 || NaN
-multiply(100.5, 10, "B"); // 1000 || NaN
+multiply(10, 20); // 200
+multiply("A", 10, 30); // 300
+multiply(100.5, 10, "B"); // 1000
