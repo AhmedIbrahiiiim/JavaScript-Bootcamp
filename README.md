@@ -306,7 +306,7 @@
 - [ :heavy_check_mark: ] &nbsp; ![#32CD32](https://via.placeholder.com/12/32CD32/000000?text=+) `Solved` - Document Object Model => [Assignments For Lessons From [ 086 ] To [ 093 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-086-to-093/) => [Solution](https://github.com/AhmedIbrahiiiim/JavaScript-Bootcamp/tree/main/Assignments/Assignment-16%20-%20%5B086%5D%20To%20%5B093%5D)
 
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - Document Object Model => [Assignments For Lessons From [ 094 ] To [ 101 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-094-to-100/) => [Solution] `Unsolved yet`
-<!-- newwwwwwwwwwwwwwwwwwwwwww -->
+
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - Browser Object Model => [Assignments For Lessons From [ 102 ] To [ 110 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/) => [Solution] `Unsolved yet`
 
 - [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unsolved` - Browser Object Model => [Assignments For Lessons From [ 111 ] To [ 114 ]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-111-to-114/) => [Solution] `Unsolved yet`
