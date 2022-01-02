@@ -161,73 +161,73 @@
 
 #### Browser Object Model [BOM]
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 102 => [What Is **BOM** ?](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2014/102%20-%20What%20Is%20BOM.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 102 - What Is **BOM**?
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 103 => [**Alert**, **Confirm** & **Prompt**](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2014/103%20-%20Alert%2C%20Confirm%2C%20Prompt.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 103 - **Alert**, **Confirm** & **Prompt**
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 104 => [**setTimeout** & **clearTimeout** Methods](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2014/104%20-%20setTimeout%20and%20clearTimeout.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 104 - **setTimeout** & **clearTimeout** Methods
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 105 => [**setInterval** & **clearInterval** Methods](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2014/105%20-%20setInterval%20and%20clearInterval.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 105 - [**setInterval** & **clearInterval** Methods
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 106 => [Window **Location** Object](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2014/106%20-%20Window%20Location%20Object.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 106 - Window **Location** Object
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 107 => [Window **Open & Close**](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2014/107%20-%20Window%20Open%20And%20Close.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 107 - Window **Open & Close**
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 108 => [Window **History** Object](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2014/108%20-%20Window%20History%20Object.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 108 - Window **History** Object
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 109 => [**Scroll, ScrollTo, ScrollBy, Focus, Print, Stop**](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2014/109%20-%20Scroll%2C%20ScrollTo%2C%20ScrollBy%2C%20Focus%2C%20Print%2C%20Stop.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 109 - **Scroll, ScrollTo, ScrollBy, Focus, Print, Stop**
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 110 => [Practice - **Scroll To Top** Using ScrollY](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2014/110%20-%20Scroll%20To%20Top%20Using%20ScrollY%20Practice.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 110 - Practice - **Scroll To Top** Using ScrollY
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 111 => [Local Storage](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2015/111%20-%20Local%20Storage.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 111 - Local Storage
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 112 => [Practice - Local Storage & Color](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2015/112%20-%20Local%20Storage%20Color%20App%20Practice.html)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 112 - Practice - Local Storage & Color
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 113 => [Session Storage & Use Cases](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2015/113%20-%20Session%20Storage%20And%20Use%20Cases.html)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 113 - Session Storage & Use Cases
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 114 => [BOM Challenge](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2015/114%20-%20BOM%20Challenge.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 114 - BOM Challenge
 
 #### Destructuring
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 115 => [Destructuring Arrays - Part 1](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2016/115%20-%20Destructuring%20Arrays%20Part%201.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 115 - Destructuring Arrays - Part 1
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 116 => [Destructuring Arrays - Part 2](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2016/116%20-%20Destructuring%20Arrays%20Part%202.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 116 - Destructuring Arrays - Part 2
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 117 => [Destructuring Arrays - Part 3 - Swap Variables](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2016/117%20-%20Destructuring%20Arrays%20Part%203%20-%20Swap%20Variables.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 117 - Destructuring Arrays - Part 3 - Swap Variables
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 118 => [Destructuring Object - Part 1](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2016/118%20-%20Destructuring%20Objects%20Part%201.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 118 - Destructuring Object - Part 1
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 119 => [Destructuring Object - Part 2](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2016/119%20-%20Destructuring%20Objects%20Part%202.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 119 - Destructuring Object - Part 2
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 120 => [Destructuring Function Parameters](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2016/120%20-%20Destructuring%20Function%20Parameters.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 120 - Destructuring Function Parameters
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 121 => [Destructuring Mixed Content](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2016/121%20-%20Destructuring%20Mixed%20Content.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 121 - Destructuring Mixed Content
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 122 => [Destructuring Challenge](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2016/122%20-%20Destructuring%20Challenge.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 122 - Destructuring Challenge
 
 #### More Methods & New Data Types
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 123 => [Set Data Type And Methods](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2017/123%20-%20Set%20Data%20Type%20And%20Methods.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 123 - Set Data Type And Methods
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 124 => [Set vs WeakSet And Garbage Collector](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2017/124%20-%20Set%20vs%20WeakSet%20And%20Garbage%20Collector.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 124 - Set vs WeakSet And Garbage Collector
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 125 => [Map Data Type vs Object - Full Comparison](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2017/125%20-%20Map%20Data%20Type%20vs%20Object.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 125 - Map Data Type vs Object - Full Comparison
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 126 => [Map Methods](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2017/126%20-%20Map%20Methods.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 126 - Map Methods
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 127 => [Map vs WeakMap](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2017/127%20-%20Map%20vs%20WeakMap.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 127 - Map vs WeakMap
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 128 => [Array.from Method](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2017/128%20-%20Array.from%20Method.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 128 => [Array.from Method
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 129 => [Array.copyWithin Method](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2017/129%20-%20Array.copyWithin%20Method.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 129 - Array.copyWithin Method
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 130 => [Array.some Method](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2017/130%20-%20Array.some%20Method.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 130 - Array.some Method
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 131 => [Array.every Method](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2017/131%20-%20Array.every%20Method.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 131 - Array.every Method
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 132 => [Spread Syntax And Use Cases](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2017/132%20-%20Spread%20Syntax%20And%20Use%20Cases.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 132 - Spread Syntax And Use Cases
 
-- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 133 => [Map and Set Challenge](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2017/133%20-%20Map%20And%20Set%20Challenge.js)
+- [ :heavy_multiplication_x: ] &nbsp; ![#FF7F50](https://via.placeholder.com/12/FF7F50/000000?text=+) `Unwatched` - 133 - Map and Set Challenge
 
 ### Generators And Modules
 
